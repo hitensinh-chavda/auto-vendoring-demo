@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "ErpDb": "Server=your-sql-server.database.windows.net;Database=your_db_name;User Id=your_user;Password=your_password;Encrypt=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
