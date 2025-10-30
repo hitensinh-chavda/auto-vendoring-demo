@@ -1,0 +1,8 @@
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.csproj.AssemblyReference.cache
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.AssemblyInfoInputs.cache
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.AssemblyInfo.cs
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.csproj.CoreCompileInputs.cache
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/Debug/net8.0/AutoVendoringApi.sourcelink.json

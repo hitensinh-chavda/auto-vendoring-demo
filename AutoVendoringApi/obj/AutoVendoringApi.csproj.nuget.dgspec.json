@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/AutoVendoringApi.csproj": {}
+    "/workspaces/auto-vendoring-demo/AutoVendoringApi/AutoVendoringApi.csproj": {}
   },
   "projects": {
-    "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/AutoVendoringApi.csproj": {
+    "/workspaces/auto-vendoring-demo/AutoVendoringApi/AutoVendoringApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/AutoVendoringApi.csproj",
+        "projectUniqueName": "/workspaces/auto-vendoring-demo/AutoVendoringApi/AutoVendoringApi.csproj",
         "projectName": "AutoVendoringApi",
-        "projectPath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/AutoVendoringApi.csproj",
+        "projectPath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/AutoVendoringApi.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/obj/",
+        "outputPath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

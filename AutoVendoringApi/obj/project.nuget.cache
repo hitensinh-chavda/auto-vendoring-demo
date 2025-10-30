@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8BczFLuD1YY=",
+  "dgSpecHash": "IuvCmD/L5Yw=",
   "success": true,
-  "projectFilePath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/Controllers/AutoVendoringApi/Data/AutoVendoringApi/Models/AutoVendoringApi/AutoVendoringApi/AutoVendoringApi/AutoVendoringUi/AutoVendoringApi.csproj",
+  "projectFilePath": "/workspaces/auto-vendoring-demo/AutoVendoringApi/AutoVendoringApi.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
