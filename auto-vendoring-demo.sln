@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{F25A68D9-0686-E15B-6261-1CFA229D1644}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{9B7E2CAC-4BBB-8E5B-EF4D-B06E285618A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{BB67E895-640C-4FAF-6E0A-F4B9E47F46A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{713A7824-CAC4-F028-56F6-5F3ED40BF719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{8AE004E9-5625-14A9-EA57-AC39FE24E464}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{F6017FA3-65B1-B62B-18E2-30A0C3ED3A8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{10E15BB8-97B1-6293-2373-AF8BEF7637BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{C6F2DE00-0ECB-7A91-46FD-91C22AAA9237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoVendoringApi", "AutoVendoringApi", "{8CB497A1-FF17-0A24-AECD-3AD89547B66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoVendoringApi", "AutoVendoringApi\Controllers\AutoVendoringApi\Data\AutoVendoringApi\Models\AutoVendoringApi\AutoVendoringApi\AutoVendoringApi\AutoVendoringUi\AutoVendoringApi.csproj", "{782ADCC6-1696-118E-C9DC-7AACA598D561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782ADCC6-1696-118E-C9DC-7AACA598D561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782ADCC6-1696-118E-C9DC-7AACA598D561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782ADCC6-1696-118E-C9DC-7AACA598D561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782ADCC6-1696-118E-C9DC-7AACA598D561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B7E2CAC-4BBB-8E5B-EF4D-B06E285618A5} = {F25A68D9-0686-E15B-6261-1CFA229D1644}
+		{BB67E895-640C-4FAF-6E0A-F4B9E47F46A1} = {9B7E2CAC-4BBB-8E5B-EF4D-B06E285618A5}
+		{713A7824-CAC4-F028-56F6-5F3ED40BF719} = {BB67E895-640C-4FAF-6E0A-F4B9E47F46A1}
+		{8AE004E9-5625-14A9-EA57-AC39FE24E464} = {713A7824-CAC4-F028-56F6-5F3ED40BF719}
+		{F6017FA3-65B1-B62B-18E2-30A0C3ED3A8F} = {8AE004E9-5625-14A9-EA57-AC39FE24E464}
+		{10E15BB8-97B1-6293-2373-AF8BEF7637BA} = {F6017FA3-65B1-B62B-18E2-30A0C3ED3A8F}
+		{C6F2DE00-0ECB-7A91-46FD-91C22AAA9237} = {10E15BB8-97B1-6293-2373-AF8BEF7637BA}
+		{8CB497A1-FF17-0A24-AECD-3AD89547B66B} = {C6F2DE00-0ECB-7A91-46FD-91C22AAA9237}
+		{782ADCC6-1696-118E-C9DC-7AACA598D561} = {8CB497A1-FF17-0A24-AECD-3AD89547B66B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6EEC0F-C50C-4273-9F13-0ABAB0B2E06A}
+	EndGlobalSection
+EndGlobal
